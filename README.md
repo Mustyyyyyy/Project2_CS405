@@ -53,3 +53,7 @@ These changes were made to resolve issues with the arrow key logic and lighting 
 - The box now behaves correctly when ambient lighting is enabled.
 - Specular lighting is fully adjustable through the UI slider.
 
+## GitHub Repository
+[GitHub Repository Link](https://github.com/Mustyyyyyy/Project2_CS405)
+
+
